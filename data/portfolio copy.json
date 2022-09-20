@@ -1,5 +1,5 @@
 {
-  "name": "ThuBerry",
+  "name": "Thu Chu",
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Thu Chu- curious",
   "headerTaglineThree": "designer and devloper",
@@ -28,24 +28,24 @@
   "projects": [
     {
       "id": "1",
-      "title": "Project One ",
+      "title": "Project Evije",
       "description": "Web Design",
       "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": "http://evije.com/"
     },
     {
       "id": "2",
-      "title": "Project Two",
+      "title": "Project SevenLime",
       "description": "Web Development",
       "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": "http://sevenlime.com/"
     },
     {
       "id": "3",
-      "title": "Project Three",
+      "title": "Project Foxgaze",
       "description": "Design",
       "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": "http://foxgaze.com/"
     },
     {
       "id": "4",

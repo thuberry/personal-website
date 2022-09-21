@@ -14,7 +14,7 @@ export default function handler(req, res) {
           title,
           tagline,
           preview,
-          imae,
+          image,
         }),
         "utf-8",
         (err) => console.log(err)

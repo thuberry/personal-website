@@ -17,7 +17,7 @@ const CodeBlock = {
       </SyntaxHighlighter>
     ) : (
       <code className={className} {...props}>
-        {children}
+        {chilren}
       </code>
     );
   },
